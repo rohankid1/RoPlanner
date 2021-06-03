@@ -1,7 +1,7 @@
 # RoPlanner
 This repository contains the source code for RoPlanner, a small project made by me. This project is being made in QT Creator w/ C++
 #
-RoPlanner is an open-source application where you can add todo lists and when you are done with those, you can mark those as completed. Or you can undo them.
+RoPlanner is an open-source application where you can add todo lists and when you are done with those, you can mark those as completed.
 # Notices
 This application is still in WIP (work in progress) and many features have yet to come such as data saving using SQLite (which is a small database used to save data locally to your device). Everything seen below may be subject to change and the design is not final.
 
