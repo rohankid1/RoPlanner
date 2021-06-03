@@ -7,6 +7,6 @@ This application is still in WIP (work in progress) and many features have yet t
 
 # Screenshots
 
-![image](https://user-images.githubusercontent.com/25133954/120646912-e8bd4a00-c471-11eb-80cd-5c303dfa66a4.png)
-![image](https://user-images.githubusercontent.com/25133954/120647098-215d2380-c472-11eb-9554-05ea6af8a1d8.png)
+![image](https://user-images.githubusercontent.com/25133954/120659286-2031f380-c47e-11eb-91ba-634b8ebcc8e8.png)
+![image](https://user-images.githubusercontent.com/25133954/120659369-3475f080-c47e-11eb-9b6b-885eb408c3c9.png)
 
