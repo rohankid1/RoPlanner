@@ -3,7 +3,7 @@ This repository contains the source code for RoPlanner, a small project made by 
 #
 RoPlanner is an open-source application where you can add todo lists and when you are done with those, you can mark those as completed.
 # Notices
-This application is still in WIP (work in progress) and many features have yet to come such as data saving using SQLite (which is a small database used to save data locally to your device). Everything seen below may be subject to change and the design is not final.
+This app is intented to be small - nothing big, but small. This app may receive future updates from time to time but expect the features to be small. Otherwise, it may not because features-wise, may be complete and due to how I wanted to be.
 
 # Screenshots
 
