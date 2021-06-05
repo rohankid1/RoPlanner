@@ -7,6 +7,7 @@ MainWindow::MainWindow(QWidget *parent)
 {
     ui->setupUi(this);
     setWindowTitle("RoPlanner");
+    ui->Task->findChild<QDateTimeEdit*>()->setDate(QDate::currentDate());
 //    DBManager db("storage.db");
 }
 
@@ -20,7 +21,7 @@ void MainWindow::on_AddButton_clicked()
 {
     auto taskname = ui->TaskNameEdit_2;
     auto taskdesc = ui->plainTextEdit_2;
-    auto table = ui->tabWidget->widget(1)->findChild<QTableWidget*>();
+    auto table = ui->tabWidget->widget(0)->findChild<QTableWidget*>();
     auto date = ui->Task->findChild<QDateTimeEdit*>();
 
     bool is_empty = taskname->text().replace(" ", "").isEmpty();
